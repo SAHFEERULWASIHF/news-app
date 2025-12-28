@@ -3,7 +3,7 @@
 This project is a modern React-based frontend application designed to display news or blog posts using reusable and scalable components. It follows best practices in component-based architecture, state management, and UI structuring.
 
 ### 🔹 Features
-- Built with React and modern JavaScript/TypeScript
+- Built with React and modern TypeScript
 - Reusable UI components (e.g., NewsCard)
 - Dynamic rendering of posts and author details
 - Responsive layout for different screen sizes
@@ -12,8 +12,8 @@ This project is a modern React-based frontend application designed to display ne
 
 ### 🔹 Tech Stack
 - React
-- TypeScript / JavaScript
-- CSS / Tailwind CSS (if applicable)
+- TypeScript
+- CSS / Tailwind CSS
 - Vite / Create React App
 
 ### 🔹 Purpose
