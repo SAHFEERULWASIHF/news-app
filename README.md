@@ -10,7 +10,6 @@
     </li>
     <li><a href="#ui-preview">UI Preview</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#live-demo">Live Demo</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#key-technical-highlights">Key Technical Highlights</a></li>
@@ -71,9 +70,6 @@ This project is a modern React-based frontend application designed to display ne
 - Switch UI language between **English and Arabic**
 - Click on any news card to view full post details
 - Preferences are automatically saved and restored
-
-## Live Demo
-Check out the live demo of News-App: [Demo](https://sahfeerulwasihf.github.io/news-app/)
 
 ## Getting Started
 
