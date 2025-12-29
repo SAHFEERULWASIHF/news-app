@@ -73,7 +73,7 @@ This project is a modern React-based frontend application designed to display ne
 - Preferences are automatically saved and restored
 
 ## Live Demo
-Check out the live demo of Flexbox Labs: [Demo](https://flexboxlabs.netlify.app/)
+Check out the live demo of News-App: [Demo](https://sahfeerulwasihf.github.io/news-app/)
 
 ## Getting Started
 
