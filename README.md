@@ -44,8 +44,16 @@ This project is a modern React-based frontend application designed to display ne
 
 ## UI Preview
 
+![English Dark Theme](images/English_&_DarkTheme.jpeg)
+
 <details>
-  <summary><strong>View UI Screenshots</strong></summary>
+  <summary><strong>View All UI Variant's Screenshots</strong></summary>
+
+  ### English • Light Theme
+  ![Arabic Light Theme](images/English_&_WhiteTheme.jpeg)
+
+  ### Arabic • Light Theme
+  ![Arabic Light Theme](images/Arabic_&_WhiteTheme.jpeg)
 
   ### English • Dark Theme
   ![English Dark Theme](images/English_&_DarkTheme.jpeg)
@@ -53,9 +61,7 @@ This project is a modern React-based frontend application designed to display ne
   ### Arabic • Dark Theme
   ![Arabic Dark Theme](images/Arabic_&_DarkTheme.jpeg)
 
-  ### Arabic • Light Theme
-  ![Arabic Light Theme](images/Arabic_&_WhiteTheme.jpeg)
-
+  
 </details>
 
 
