@@ -8,12 +8,13 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#ui-preview">UI Preview</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#live-demo">Live Demo</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#feedback">Feedback</a></li>
+    <li><a href="#project-structure">Project Structure</a></li>
+    <li><a href="#key-technical-highlights">Key Technical Highlights</a></li>
+    <li><a href="#author">Author</a></li>
   </ul>
 </details>
 
